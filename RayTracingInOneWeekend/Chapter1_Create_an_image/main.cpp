@@ -8,7 +8,7 @@ int main()
 
 	int nx = 200;
 	int ny = 100;
-	outputFile << "P3\n" << nx << ' ' << ny << "\n255\n";
+	outputFile << "P3\n" << nx << " " << ny << "\n255\n";
 	for (int j = ny - 1; j >= 0; j--)
 	{
 		for (int i = 0;i < nx;i++)
@@ -19,7 +19,7 @@ int main()
 			int ir = int(255.99 * r);
 			int ig = int(255.99 * g);
 			int ib = int(255.99 * b);
-			outputFile << ir << ' ' << ig << ' ' << ib << "\n";
+			outputFile << ir << " " << ig << " " << ib << "\n";
 		}
 	}
 
