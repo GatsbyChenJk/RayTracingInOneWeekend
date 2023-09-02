@@ -1,0 +1,14 @@
+﻿  main.cpp
+D:\RayTracing\RayTracingInOneWeekend\Chapter5_ShadingNormal_AddMoreObjects\Vec3.h(65,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\RayTracing\RayTracingInOneWeekend\Chapter5_ShadingNormal_AddMoreObjects\Vec3.h(161,10): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\RayTracing\RayTracingInOneWeekend\Chapter5_ShadingNormal_AddMoreObjects\Sphere.h(31,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\RayTracing\RayTracingInOneWeekend\Chapter5_ShadingNormal_AddMoreObjects\HitableList.h(35,30): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\RayTracing\RayTracingInOneWeekend\Chapter5_ShadingNormal_AddMoreObjects\main.cpp(16,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\RayTracing\RayTracingInOneWeekend\Chapter5_ShadingNormal_AddMoreObjects\main.cpp(21,15): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\RayTracing\RayTracingInOneWeekend\Chapter5_ShadingNormal_AddMoreObjects\main.cpp(35,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\RayTracing\RayTracingInOneWeekend\Chapter5_ShadingNormal_AddMoreObjects\main.cpp(37,14): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\RayTracing\RayTracingInOneWeekend\Chapter5_ShadingNormal_AddMoreObjects\main.cpp(37,65): warning C4305: “参数”: 从“double”到“float”截断
+D:\RayTracing\RayTracingInOneWeekend\Chapter5_ShadingNormal_AddMoreObjects\main.cpp(50,11): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\RayTracing\RayTracingInOneWeekend\Chapter5_ShadingNormal_AddMoreObjects\main.cpp(51,15): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\RayTracing\RayTracingInOneWeekend\Chapter5_ShadingNormal_AddMoreObjects\main.cpp(51,66): warning C4305: “参数”: 从“double”到“float”截断
+  Chapter5_ShadingNormal_AddMoreObjects.vcxproj -> D:\RayTracing\RayTracingInOneWeekend\x64\Debug\Chapter5_ShadingNormal_AddMoreObjects.exe

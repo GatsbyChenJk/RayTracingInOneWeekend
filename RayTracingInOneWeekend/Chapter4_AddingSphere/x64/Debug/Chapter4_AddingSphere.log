@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\RayTracing\RayTracingInOneWeekend\Chapter4_AddingSphere\Vec3.h(65,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\RayTracing\RayTracingInOneWeekend\Chapter4_AddingSphere\Vec3.h(161,10): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\RayTracing\RayTracingInOneWeekend\Chapter4_AddingSphere\main.cpp(12,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\RayTracing\RayTracingInOneWeekend\Chapter4_AddingSphere\main.cpp(27,10): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\RayTracing\RayTracingInOneWeekend\Chapter4_AddingSphere\main.cpp(29,14): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\RayTracing\RayTracingInOneWeekend\Chapter4_AddingSphere\main.cpp(29,65): warning C4305: “参数”: 从“double”到“float”截断
+  Chapter4_AddingSphere.vcxproj -> D:\RayTracing\RayTracingInOneWeekend\x64\Debug\Chapter4_AddingSphere.exe
