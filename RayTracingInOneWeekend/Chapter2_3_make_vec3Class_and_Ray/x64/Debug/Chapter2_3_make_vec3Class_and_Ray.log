@@ -1,8 +1,10 @@
 ﻿  main.cpp
 D:\RayTracing\RayTracingInOneWeekend\Chapter2_3_make_vec3Class_and_Ray\Vec3.h(65,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
 D:\RayTracing\RayTracingInOneWeekend\Chapter2_3_make_vec3Class_and_Ray\Vec3.h(161,10): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-D:\RayTracing\RayTracingInOneWeekend\Chapter2_3_make_vec3Class_and_Ray\main.cpp(9,10): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-D:\RayTracing\RayTracingInOneWeekend\Chapter2_3_make_vec3Class_and_Ray\main.cpp(10,14): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
-D:\RayTracing\RayTracingInOneWeekend\Chapter2_3_make_vec3Class_and_Ray\main.cpp(10,65): warning C4305: “参数”: 从“double”到“float”截断
-D:\RayTracing\RayTracingInOneWeekend\Chapter2_3_make_vec3Class_and_Ray\main.cpp(25,18): warning C4305: “参数”: 从“double”到“float”截断
+D:\RayTracing\RayTracingInOneWeekend\Chapter2_3_make_vec3Class_and_Ray\main.cpp(11,10): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\RayTracing\RayTracingInOneWeekend\Chapter2_3_make_vec3Class_and_Ray\main.cpp(13,14): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\RayTracing\RayTracingInOneWeekend\Chapter2_3_make_vec3Class_and_Ray\main.cpp(13,65): warning C4305: “参数”: 从“double”到“float”截断
+D:\RayTracing\RayTracingInOneWeekend\Chapter2_3_make_vec3Class_and_Ray\main.cpp(19,10): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\RayTracing\RayTracingInOneWeekend\Chapter2_3_make_vec3Class_and_Ray\main.cpp(20,14): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\RayTracing\RayTracingInOneWeekend\Chapter2_3_make_vec3Class_and_Ray\main.cpp(35,18): warning C4305: “参数”: 从“double”到“float”截断
   Chapter2_3_make_vec3Class_and_Ray.vcxproj -> D:\RayTracing\RayTracingInOneWeekend\x64\Debug\Chapter2_3_make_vec3Class_and_Ray.exe
